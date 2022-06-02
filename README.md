@@ -6,7 +6,9 @@ Dataset for training was generated using Google Earth
 ==> Main Modules used
 
 yolov5 ( for object detection )
+
 sahi ( for image slicing )
+
 pystackreg ( for image registration )
 
 # Inputs
